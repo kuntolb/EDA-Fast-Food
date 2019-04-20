@@ -25,3 +25,8 @@ In 2016, there were __186,977 franchised__ quick service restaurants in the Unit
 | --- | --- |
 | Restaurant_Data.head | ![Data](images/Data.png) |
 | Final | ![final](images/final.png) |
+
+## Top 10 Restaurant Distribution across US
+![Top10RestaurantAcrossUS](images/Top10RestaurantAcrossUS.png)
+
+[Jupyter Notebook](./EDAFastFoodRestaurant.ipynb)
