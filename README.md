@@ -23,4 +23,5 @@ In 2016, there were __186,977 franchised__ quick service restaurants in the Unit
 ## PROJECT ANALYSIS
 | Description | Analysis |
 | --- | --- |
-| Restaurant_Data | 
+| Restaurant_Data.head | ![Data](images/Data.png) |
+| Final | ![final]](images/final.png) |
