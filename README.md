@@ -29,4 +29,10 @@ In 2016, there were __186,977 franchised__ quick service restaurants in the Unit
 ## Top 10 Restaurant Distribution across US
 ![Top10RestaurantAcrossUS](images/Top10RestaurantAcrossUS.png)
 
+
+## Conclusion
+1. People living in Eastern US have a large variety of Fast Food Restaurant to choose from.
+2. McDonald's is the top restaurant across US and present across all US
+3. Cincinnati has the highest number of restaurants 
+
 [Jupyter Notebook](./EDAFastFoodRestaurant.ipynb)
